@@ -7,6 +7,7 @@ This is a banking Java web application that allows users to persist their user i
 ## Endpoints
 
 Please see below for information on the fields included in each type of JSON object.
+All endpoints are prefixed with /bankapp/, e.g., /bankapp/users/
 
 ### /users
 
